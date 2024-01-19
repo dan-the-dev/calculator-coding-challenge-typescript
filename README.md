@@ -11,6 +11,9 @@ Please add the following information to this readme once you create the actual r
     - Build a full set of APIs
     - Practice TDD and automated tests in the language
 
+Links:
+- Documentation used to setup new NestJs project w/Dockerization https://dev.to/chukwutosin_/step-by-step-guide-setting-up-a-nestjs-application-with-docker-and-postgresql-5hei
+
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
